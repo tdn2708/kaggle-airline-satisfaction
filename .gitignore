@@ -1,0 +1,13 @@
+data/
+artifacts/
+public_oof*/
+public_nb/
+*.npy
+*.npz
+*.parquet
+*.zip
+submission*.csv
+catboost_info/
+__pycache__/
+.venv*/
+.ipynb_checkpoints/
